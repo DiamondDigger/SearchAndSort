@@ -3,9 +3,8 @@ package by.mustWork_01;
 import java.util.Scanner;
 
 /**
- * We take sorted array sortedArray[10] and find the current number with binary search and print the index of it
- * we find out one.
- *
+ * We take entered sorted array -sortedArray[10]- and find the current number -number- with binary search and print the index
+ * -index- of it if we find out one, and the message if we don't.
  * @param : array - sorted array in which we search the current number
  * @param : number - current number we need to find
  * @param : l - left border
