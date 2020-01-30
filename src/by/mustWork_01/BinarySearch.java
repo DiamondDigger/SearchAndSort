@@ -16,7 +16,7 @@ import java.util.Scanner;
  * @author Alex An
  */
 
-public class Main {
+public class BinarySearch {
 
     public static void main(String[] args) {
         System.out.print("Enter your number: ");
