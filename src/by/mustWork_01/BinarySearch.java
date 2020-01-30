@@ -7,11 +7,12 @@ import java.util.Scanner;
  * -index- of it if we find out one, and the message if we don't.
  * @param : array - sorted array in which we search the current number
  * @param : number - current number we need to find
- * @param : l - left border
- * @param : r - right border
- * @param : m - medium
- * @param : index - index of current number
- * @param : find - flag for finding out current number
+ * Variables in method are
+ *  : l - left border
+ *  : r - right border
+ *  : m - medium
+ *  : index - index of current number
+ *  : find - flag for finding out current number
  * @author Alex An
  */
 
